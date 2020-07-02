@@ -8,4 +8,4 @@ The html will have a title, and three sections, which should fit each screen typ
 The verbouse used on the website is giberish.
 The css will be in its own file no inline styling. 
 There will be three media quieres to optimize responsivness
-pictures used are open source and the photographer may not be created due to the fact that it is open source. However, any credit i can give will be given, source will be documented. 
+ 
